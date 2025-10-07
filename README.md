@@ -17,7 +17,14 @@ This eCommerce platform is designed to be fast, user-friendly, and responsive ac
 - Error handling & data validation (e.g. using `Number(price)` instead of `.toFixed` on strings)
 
 ---
+🪄 Notes
+All data and images are locally hosted — no external API used.
+This project is created for educational and portfolio purposes.
 
+-----------
+## 🚀 Live Demo 
+👉 [Demo Link – Coming Soon](#)
+---------
 ## 🛠️ Technologies Used
 
 - React  
@@ -36,7 +43,12 @@ This eCommerce platform is designed to be fast, user-friendly, and responsive ac
  deploy to services like Netlify, Vercel
 --------------
 
- 👤 About the Developer
+👨‍💻 Developer
 
-This project was developed by Yousef Sabry as part of learning full-stack development.
-It reflects months of effort to merge UI/UX design, React & TypeScript skills, and API handling.
+Developed by Yousef Sabry
+
+Frontend Developer | React.js | Machine Learning Enthusiast
+
+📧 Email: yousef.sofah123@gmail.com
+
+💼 Portfolio: https://portfolio-yousef-sabry.netlify.app.
